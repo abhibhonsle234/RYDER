@@ -87,7 +87,7 @@ Explanation:
 
 Now create one database which will be use by Django to store data
 
-`create database isohack;`
+`create database ryder;`
 
 Explanation:
 
@@ -95,7 +95,7 @@ Explanation:
 
 Now we will provide all the privileges for the user so that django can use it and create tables in that database.
 
-`GRANT ALL PRIVILEGES ON DATABASE isohack TO random;`
+`GRANT ALL PRIVILEGES ON DATABASE ryder TO random;`
 
 Explanation:
 
@@ -119,7 +119,7 @@ First create `.env` file and then type:
 
 To avoid any conflicts you can ask secret key from admin or use your own. And second is:
 
-`DATABASE_URL=postgresql://random:password@localhost/isohack`
+`DATABASE_URL=postgresql://random:password@localhost/ryder`
 
 If you followed the same procedure as mentioned in Database configuration section then the URL will be same just like this, else if you have choosen different username then edit those fields. Now you have everything set up.
 
