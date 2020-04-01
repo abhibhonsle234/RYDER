@@ -2,7 +2,6 @@
 
 ## Contribution
 
-[![Build Status](https://travis-ci.org/isohack/hackathon-webapp.svg?branch=master)](https://travis-ci.org/isohack/hackathon-webapp)
 
 In case if you want to contribute in this project then please follow these steps:
 
