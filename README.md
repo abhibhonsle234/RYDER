@@ -13,9 +13,11 @@ In case if you want to contribute in this project then please follow these steps
 
 ## Getting Started with Backend
 
-Before going ahead make sure you clone the repository and change directory to that cloned repository:
+FIRST OF ALL FORK the repository in your own github account then
 
-`git clone https://github.com/abhibhonsle234/RYDER.git`
+clone the repository and change directory to that cloned repository:
+
+`git clone https://github.com/abhibhonsle234/RYDER.git` <- this is the master you have to clone your forked repo to local machine
 
 `cd hackathon-webapp`
 
